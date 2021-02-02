@@ -3,5 +3,5 @@ core.mongo*
 core.python*
 env.py
 *.sqlite3
-__pycache__/
+__pycache__/a
 *.py[cod]
