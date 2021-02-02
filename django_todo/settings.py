@@ -26,7 +26,7 @@ SECRET_KEY = 'qe(xp(1h-=zl0=i060nae6a3f9jz9^p^fmfunlu88i$c#&y_)+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [mctastic-todo-app.herokuapp.com]
+ALLOWED_HOSTS = ['mctastic-todo-app.herokuapp.com']
 
 
 # Application definition
